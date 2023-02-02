@@ -10,7 +10,7 @@ store.dispatch({
   payload: {
     id: null,
     type: 'text',
-    content: `_Tip: click \`\`\`Format\`\`\` button to make your code prettier (it appears when you hover the code aditor area) and use buttons in the top right corner of each cell to control it's position in the cells order._
+    content: `_Tip: click \`\`\`Format\`\`\` button to make your code prettier (it appears when you hover the code editor area) and use buttons in the top right corner of each cell to control it's position in the cells order._
 
 __Thank you for taking a look at this!__`
   }
